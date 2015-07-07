@@ -1,2 +1,2 @@
 # caijingyanjiu
-A joint effort with Dazhong Wang
+A joint effort with Dazhong Wang on affirmative actions in score based school admission.
